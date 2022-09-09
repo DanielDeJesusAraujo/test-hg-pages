@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wallet/static/css/main.073c9b0a.css",
+    "main.js": "/wallet/static/js/main.f4797934.js",
+    "static/js/787.e5dc3531.chunk.js": "/wallet/static/js/787.e5dc3531.chunk.js",
+    "static/media/logo.svg": "/wallet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wallet/index.html",
+    "main.073c9b0a.css.map": "/wallet/static/css/main.073c9b0a.css.map",
+    "main.f4797934.js.map": "/wallet/static/js/main.f4797934.js.map",
+    "787.e5dc3531.chunk.js.map": "/wallet/static/js/787.e5dc3531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4797934.js"
+  ]
+}
